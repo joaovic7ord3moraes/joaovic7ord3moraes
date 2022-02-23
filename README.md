@@ -3,7 +3,6 @@
 
 - 🔭 Hoje eu estou estudando para me tornar um programador Full-Stack 
 - 🌱 Focando principalmente em estudar HTML, CSS e JavaScript
-- 💬 Contate-me no linkedin:https://www.linkedin.com/in/jo%C3%A3o-victor-de-moraes-b3b528189/
 
 <div align="center">
   <a href="https://github.com/joaovic7ord3moraes">
