@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🔭 Hoje eu estou estudando para me tornar um programador Full-Stack 
+- 🔭 Hoje eu estou estudando para me tornar um programador Front-end 
 - 🌱 Focando principalmente em estudar HTML, CSS e JavaScript
 
 <div align="center">
